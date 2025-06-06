@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://t3.ftcdn.net/jpg/07/58/54/72/360_F_758547202_6ykCcK6XAckxh9XSOli8wNWTZ2dwgG1x.jpg"/>
+</p>
 <h1 align="center">Hey there 👋, I'm <span style="color:#ff6347;">Subhadip Maity</span></h1>
 <h3 align="center">🚀 A Passionate Frontend Developer from India 🇮🇳</h3>
 
@@ -74,6 +77,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
-</p>
+
