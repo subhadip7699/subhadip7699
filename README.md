@@ -8,20 +8,7 @@
 
 <div align="center">
   
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</div>
 
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=subhadip7699&theme=dracula" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=subhadip7699&theme=dracula&row=1&column=6"/>
-</div>
 
 ---
 
