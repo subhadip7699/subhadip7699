@@ -1,15 +1,3 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
-
-
-
-<br/>
-
-<div align="center">
-  
-
-
----
-
 <h1 align="center">Hi 👋, I'm Subhadip Maity</h1>
 <h3 align="center">A Passionate Frontend Developer from India 🇮🇳</h3>
 
