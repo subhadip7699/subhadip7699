@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,storybook,graphql,go,rust,nestjs,py,aws" height="60" />
-</div>
+
 
 <br/>
 
