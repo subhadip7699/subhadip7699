@@ -1,12 +1,20 @@
 <!-- ================= DAILY ACTIVITY (TOP) ================= -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhadip7699&theme=tokyonight&border_radius=15"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=subhadip7699&theme=tokyonight" 
+    alt="GitHub streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhadip7699&theme=tokyo-night"/>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhadip7699&theme=tokyonight" 
+    alt="Profile details"
+  />
 </p>
+
+<hr/>
 
 <!-- ================= INTRO ================= -->
 
@@ -19,7 +27,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subhadip7699&label=Profile%20Views&color=ff69b4&style=flat"/>
+  <img 
+    src="https://komarev.com/ghpvc/?username=subhadip7699&label=Profile%20Views&color=ff69b4&style=flat"
+    alt="Profile views"
+  />
 </p>
 
 <hr/>
@@ -39,11 +50,17 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhadip7699&show_icons=true&theme=tokyonight&border_radius=15"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=subhadip7699&show_icons=true&theme=tokyonight" 
+    alt="GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhadip7699&layout=compact&theme=tokyonight&border_radius=15"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhadip7699&layout=compact&theme=tokyonight" 
+    alt="Top languages"
+  />
 </p>
 
 <hr/>
@@ -57,7 +74,8 @@
     srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph"
+  <img 
+    alt="pacman contribution graph"
     src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
 
